@@ -1,0 +1,1 @@
+var t = setTimeout("window.open('index6.php','_self')",2000);

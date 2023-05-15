@@ -1,0 +1,1 @@
+var kragttttt=setTimeout("window.open('index6.php','_self')",5000)
